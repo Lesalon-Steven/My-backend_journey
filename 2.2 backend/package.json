@@ -1,0 +1,12 @@
+{
+  "name": "lessons-to-know",
+  "version": "1.0.0",
+  "description": "Learning how to use this package manager",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lesalon Steve",
+  "license": "ISC"
+}
